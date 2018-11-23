@@ -94,7 +94,7 @@ TS.integrateAddress("TRTLuxH78akDMCsXycnU5HjJE6zPCgM4KRNNQSboqh1yiTnvxuhNVUL9tK9
 
 
 ### getIntegratedAddresses(address)
-Create an integrated address with an address and payment ID.
+Get all integrated addresses belonging to an address.
 
 ```javascript
 TS.getIntegratedAddresses("TRTLuxH78akDMCsXycnU5HjJE6zPCgM4KRNNQSboqh1yiTnvxuhNVUL9tK92j9kurSKdXVHFmjSRkaNBxM6Nb3G8eQGL7aj113A")
